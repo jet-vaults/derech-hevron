@@ -1,0 +1,15 @@
+{
+  "url": "https://derech-hevron.co.il",
+  "pages_url": "https://derech-hevron.pages.dev",
+  "nameservers": [
+    "gordon.ns.cloudflare.com",
+    "sureena.ns.cloudflare.com"
+  ],
+  "storage": "https://jetvaults.blob.core.windows.net/derech-hevron/",
+  "private_storage": "https://jetvaults.blob.core.windows.net/derech-hevron-private/",
+  "storage_profile": "standard",
+  "storage_profile_label": "Standard",
+  "storage_account": "jetvaults",
+  "storage_account_url": "https://jetvaults.blob.core.windows.net",
+  "activated": false
+}
